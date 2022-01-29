@@ -1,0 +1,10 @@
+Veuillez enfiler votre masque s'il vous plait !
+Il vous faudra porter votre masque pour accéder à l’espace !
+Le port de masque est obligatoire !
+Sans le masque, vous n’allez pas pouvoir rentrer !
+Enfilez votre masque pour avoir accès à l’espace !
+Vous devez vous munir de votre masque pour entrer !
+Désolé de ne pas pouvoir vous donner accès à l’espace sans votre masque !
+Votre masque n’est pas porté. Veuillez l'enfiler!
+Porter votre masque est impératif si vous voulez entrer !
+Il vous faut nécessairement votre masque pour rentrer!
